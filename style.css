@@ -1,0 +1,251 @@
+
+.nav-info{
+	font-size: 22px;
+	font-weight: bolder;
+	padding-inline: 10px;
+	margin-left: 20px;
+}
+
+.nav-info:hover{
+	text-decoration: underline;
+}
+
+.navbar{
+	z-index: 1;
+	position: fixed;
+	background: white;
+	width: 100%;
+}
+
+.main-name{
+/*	border: 2px solid;*/
+	margin-inline: 20px;
+	border-radius: 10px;
+	font-size: 45px;
+	margin-top: 5px;
+	font-variant: small-caps;
+	color: darkslategrey;
+}
+
+
+
+
+.home{
+	height: 700px;
+	width: 100%;
+}
+
+.in-home{
+	height: 300px;
+	width: 900px;
+	margin-left: 270px;
+	vertical-align: middle;
+	border-radius: 30px;
+	box-shadow: 15px 30px 30px lightblue;
+	border: 0.5px solid lightblue;
+	/*background-image: url(home1.png);
+	background-position-x: 200px;*/
+/*	background: lightblue;*/
+
+}
+
+.home-heading{
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	margin-left: 250px;
+	padding: 20px;
+}
+.home-sub{
+	font-size: 25px;
+	font-weight: bolder;
+	font-family: sans-serif;
+	margin-left: 130px;
+}
+
+#input{
+	width: 400px;
+	height: 50px;
+	border-radius:20px ;
+	margin: 20px;
+}
+
+/*upcoming*/
+
+.upcoming{
+
+	height: 700px;
+	width: 100%;
+/*	background: darkred;*/
+
+}
+
+.up-head{
+	font-size: 40px;
+	font-weight: bolder;
+	font-family: sans-serif;
+	margin-left: 20px;
+
+}
+
+.cards{
+	padding: 30px;
+}
+
+.card{
+	transition-duration: 1s;
+
+}
+
+.card-body{
+	background: lightblue;
+	
+}
+.card:hover{
+	transform: scale(1.1);
+	box-shadow: 10px 10px 10px black;
+
+	
+
+
+}
+
+.all-brand{
+	height: 700px;
+	width: 100%;
+	padding: 10px;
+}
+
+.brand-image{
+	height: 40px;
+	width: 50px;
+	transition-duration: 1s;
+}
+.brand-name{
+	margin-left: 40px;
+	font-weight: bolder;
+	cursor: pointer;
+
+}
+
+.table{
+	box-shadow: 10px 10px 10px lightblue;
+	border-radius: 10px;
+	padding: 20px;
+	border-collapse: separate; 
+    border-spacing: 28px; 
+}
+
+.brand-image:hover{
+	transform: scale(0.8);
+	box-shadow: 10px 10px 10px black;
+	border-radius: 30px;
+
+	
+}
+
+.popular-cars{
+	height: 600px;
+	width: 100%;
+	
+}
+.card-deck{
+	padding: 30px;
+}
+
+.city{
+	height: 900px;
+	width: 100%;
+	padding: 20px;
+	
+}
+.main-city{
+	height: 600px;
+	width: 90%;
+
+	box-align: center;
+	margin-left: 20px;
+	padding: 20px;
+
+
+
+}
+
+.city-table{
+
+	box-shadow: 20px 10px 20px lightblue;
+	border-radius: 10px;
+	padding: 10px;
+	border-collapse: separate; 
+    border-spacing: 12px; 
+    margin-left: 90px;
+    border: 0.5px solid;
+
+    
+
+
+}
+
+.city-table-row{
+/*	border-bottom: 2px solid black;*/
+	padding: 60px;
+	background: lightblue;
+	transition-duration: 1s;
+	border-radius: 10px;
+
+
+
+}
+
+
+.city-table-row:hover{
+	border-bottom: 2px solid black;
+	box-shadow: 10px 10px 10px black;
+	border-radius: 40px;
+	transform: scale(0.9);
+
+}
+
+
+.city-image{
+
+	margin-left: 20px;
+	cursor: pointer;
+}
+
+.city-name{
+	font-weight: bolder;
+/*	font-size: 20px;*/
+	cursor: pointer;
+}
+
+.footer{
+	height: 200px;
+	width: 100%;
+/*	padding: 10px;*/
+	margin-bottom: 20px;
+}
+
+.footer-info{
+	padding: 10px;
+	cursor: pointer;
+
+
+}
+
+.footer-heading{
+	
+	font-weight: bolder;
+	font-size: 20px;
+}
+.footer-table{
+	margin-left: 30px;
+}
+
+
+
+
+
+
+
+
